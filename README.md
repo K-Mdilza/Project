@@ -1,5 +1,4 @@
-# Project                                                                               ![Picsart_23-08-29_20-17-26-925](https://github.com/K-Mdilza/Project/assets/112168627/b84b1f82-a0e9-4acd-85a3-09b43cfbca2c)
-
+# Project                                                                              ![Picsart_23-08-29_20-16-19-615](https://github.com/K-Mdilza/Project/assets/112168627/a4396932-cbd1-438c-a674-df157cfbacef)
 
 Hello Guys..! This repository specifically contains the files related to the projects. You can go through these files. Every folder contains readme file. Just go through that before working on projects. If any doubt or any problem, please try to contact me.
                                 
