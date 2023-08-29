@@ -37,5 +37,5 @@ arr=(
 "The only thing standing between you and your dream is the will to try and the belief that it is actually possible."
 "Change your thoughts and you change your world."
 	)
-echo -e "\e[1m\e[31m\e[3m\e[1;47m${arr[$RANDOM%35]}\e[0m"
+echo -e "\e[1m\e[31m\e[3m\e[1;47m${arr[$RANDOM%35]}\e[0m" # Escape Characters are used to get different colour combinations.
 
