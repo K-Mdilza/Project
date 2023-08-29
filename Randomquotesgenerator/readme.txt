@@ -10,8 +10,7 @@ I have also used this script to run automatically whenever i reopen my bash term
 		By doing so, Whenever there is non-login shell generation i.e bash is opened, this script get executed.
 
 
-**Prerequisites:**
-
+Prerequisites:
 Bash Scripting.
 Use of common commands.
 
