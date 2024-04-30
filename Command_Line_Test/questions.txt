@@ -1,0 +1,50 @@
+1. Linux is a ___
+a) Proprietary software
+b) Freeware
+c) Open source Software
+d) Both b & c
+2. Name the most commonly used shell in Linux system?
+a) sh
+b) ksh
+c) bash
+d) csh
+3. What is command for print?
+a) ls
+b) read
+c) echo
+d) cat
+4. Which symbol represents the user's home directory?
+a) /
+b) @
+c) #
+d) ~
+5. Command to remove directories and files recursively.
+a) rmdir -r
+b) del -r
+c) rm -f
+d) rm -r
+6. Which Linux command is used to copy directories through the command line?
+a) copy -r
+b) cp
+c) cp -r
+d) mv -r
+7. Which Linux command is used to display the content of a file?
+a) cat
+b) display
+c) z cat
+d) echo
+8. Which command is used to display the current working directory?
+a) dir
+b) pwd
+c) cd 
+d) ls
+9. Which command is used to create a new directory?
+a) rd
+b) md
+c) mkdir
+d) newdir
+10. Which symbol is used to redirect the output of a command to a file?
+a) <
+b) >
+c) |
+d) &
